@@ -4,7 +4,7 @@
   "description": "Crypto.org Keplr NFT Manager",
   "author": "Crypto.org <chain@crypto.org>",
   "license": "Apache-2.0",
-  "homepage": ".",
+  "homepage": "https://cdc-hitesh.github.io/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
